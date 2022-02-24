@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@konveyor/lib-ui": "^5.2.0",
-    "@patternfly/react-code-editor": "4.22.1",
+    "@patternfly/react-code-editor": "4.39.5",
     "@patternfly/react-core": "4.181.1",
     "@patternfly/react-table": "4.50.1",
     "@project-openubl/lib-ui": "1.7.2",
